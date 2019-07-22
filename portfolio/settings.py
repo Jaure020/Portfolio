@@ -39,6 +39,7 @@ INSTALLED_APPS = [
     'django.contrib.staticfiles',
     'LinkedIn.apps.LinkedInConfig',
     'jobs.apps.JobsConfig',
+    'ecSeg.apps.ecSegConfig',
 ]
 
 MIDDLEWARE = [
