@@ -1,5 +1,6 @@
 from django.contrib import admin
-from .models import LinkedIn
-
+from .models import Login
 # Register your models here.
-admin.site.register(LinkedIn)
+
+admin.site.register(Login)
+

@@ -4,6 +4,6 @@ from django.urls import path, include
 from . import views
 
 urlpatterns = [
-    path('',views.LinkedIn, name='LinkedIn'),
+    path('',views.signin, name='signin'),
 
 ]

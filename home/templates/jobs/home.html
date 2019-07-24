@@ -1,6 +1,7 @@
 <!doctype html>
 <html lang="en">
   <head>
+      {% load staticfiles %}
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <meta name="description" content="">
@@ -14,6 +15,7 @@
 <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
 
     <style>
+
       .bd-placeholder-img {
         font-size: 1.125rem;
         text-anchor: middle;
@@ -30,20 +32,19 @@
       }
     </style>
     <!-- Custom styles for this template -->
-    <link href="album.css" rel="stylesheet">
+<link href="album.css" rel="stylesheet">
   </head>
   <body>
     <header>
   <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
-  <a class="navbar-brand" href="#">Jeff Jaureguy</a>
+  <a class="navbar-brand" href="#">University of California San Diego</a>
   <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavAltMarkup" aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
     <span class="navbar-toggler-icon"></span>
   </button>
   <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
     <div class="navbar-nav ml-auto">
-      <a class="nav-item nav-link active" href="#">CV</a>
-      <a class="nav-item nav-link" href="#">GitHub</a>
-      <a class="nav-item nav-link active" href="#">LinkedIn</a>
+      <a class="nav-item nav-link active" href="http://proteomics.ucsd.edu/vbafna/">Dr. Bafna's Research Laboratory |</a>
+      <a class="nav-item nav-link active" href="mailto:urajkuma@eng.ucsd.edu">Contact Us |</a>
       <a class="nav-item nav-link disabled" href="#" tabindex="-1" aria-disabled="true"></a>
     </div>
   </div>
@@ -53,34 +54,26 @@
 
     <section class="jumbotron text-center">
         <div class="container">
-            <h1 class="jumbotron-heading">Click Below to View my LinkedIn Profile</h1>
+            <h1 class="jumbotron-heading">Extra-chromosomal Segmentation</h1>
+            <p class="lead text-muted">This software quantifies extrachromosomal DNA. It is a systematic image analysis tool that quantifies extrachromosomal DNA with algorithms and artificial intelligence models called convolutional neural networks (CNN). This CNN algorithm is utilized to quantify extrachromosomal DNA-based amplification at the single-cell level, potentially providing new insight into how cell to cell variability concerning specific oncogenes contribute to tumor growth, progression, and drug resistance. </p>
+           <img src="{% static '../../../media/images/nn.png' %}" height="400"/>
             <p>
-                <a href="www.linkedin.com/in/jeffjaureguy"  class="btn btn-primary my-2">LinkedIn</a>
+                <a href="Login/"  class="btn btn-primary my-2">Register/Login</a>
             </p>
+
         </div>
     </section>
 
-    <div class="album py-5 bg-light">
-        <div class="container">
 
-            <div class="row">
+                        </body>
+                    </div>
+                    </div>
+                    </div>
 
-                {% for job in jobs.all %}
-                    <div class="col-md-4">
-                        <div class="card mb-4 shadow-sm">
-                            <img class="img card-img-top" src="{{job.image.url}}"/>
-                            <div class="card-body">
-                                <p class="card-text">{{job.summary}}</p>
-                            </div>
-                        </div>
-                    </div>
-                    </div>
-                    </div>
-                {% endfor %}
 
         <footer class="text-muted">
   <div class="container">
-      <p>©Jeff Jaureguy {% now "Y" %}   </p>
+      <p>©EcSeg {% now "Y" %}   </p>
   </div>
 </footer>
   <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
