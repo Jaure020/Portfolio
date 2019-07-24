@@ -2,46 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8f63e1cf-af7b-4bae-a505-ed8d018a9b69" name="Default Changelist" comment="update">
-      <change afterPath="$PROJECT_DIR$/Login/apps.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Login/models.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Login/templates/Login/Login.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Login/views.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/portfolio/static/pexels-photo.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/signin/models.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/signin/templates/signin/signin.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/signin/tests.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/signin/urls.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/signin/views.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/ucsd logo.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LinkedIn/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/Login/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LinkedIn/admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/Login/admin.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LinkedIn/apps.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LinkedIn/migrations/0001_initial.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LinkedIn/migrations/0002_auto_20190720_2144.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LinkedIn/migrations/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/home/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LinkedIn/models.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LinkedIn/templates/LinkedIn/LinkedIn.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LinkedIn/tests.py" beforeDir="false" afterPath="$PROJECT_DIR$/Login/tests.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LinkedIn/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/Login/urls.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LinkedIn/views.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/jobs/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/home/migrations/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/jobs/admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/home/admin.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/jobs/apps.py" beforeDir="false" afterPath="$PROJECT_DIR$/home/apps.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/jobs/migrations/0001_initial.py" beforeDir="false" afterPath="$PROJECT_DIR$/home/migrations/0001_initial.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/jobs/migrations/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/signin/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/jobs/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/home/models.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/jobs/templates/jobs/home.html" beforeDir="false" afterPath="$PROJECT_DIR$/home/templates/jobs/home.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/jobs/tests.py" beforeDir="false" afterPath="$PROJECT_DIR$/home/tests.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/jobs/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/home/views.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio/settings.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio/static/JeffJCV07:17:2019.docx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio/static/JeffJaureguy-CSUSM-010.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio/urls.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/JeffJCV07:17:2019.docx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/JeffJaureguy-CSUSM-010.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/cv.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/signin/admin.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/cv1.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/signin/apps.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Login/templates/Login/Login.html" beforeDir="false" afterPath="$PROJECT_DIR$/Login/templates/Login/Login.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/signin/templates/signin/signin.html" beforeDir="false" afterPath="$PROJECT_DIR$/signin/templates/signin/signin.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -54,8 +16,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/home/templates/jobs/home.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="118">
-              <caret line="60" column="31" lean-forward="true" selection-start-line="60" selection-start-column="25" selection-end-line="60" selection-end-column="31" />
+            <state relative-caret-position="337">
+              <caret line="76" column="8" lean-forward="true" selection-start-line="73" selection-start-column="6" selection-end-line="76" selection-end-column="8" />
             </state>
           </provider>
         </entry>
@@ -72,22 +34,22 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Login/templates/Login/Login.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="421">
-              <caret line="67" column="40" selection-start-line="67" selection-start-column="40" selection-end-line="67" selection-end-column="67" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/signin/templates/signin/signin.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="369">
-              <caret line="33" column="49" lean-forward="true" selection-start-line="33" selection-start-column="49" selection-end-line="33" selection-end-column="49" />
+            <state relative-caret-position="427">
+              <caret line="100" selection-start-line="100" selection-end-line="100" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/signin/templates/signin/signin.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="465">
+              <caret line="62" lean-forward="true" selection-start-line="62" selection-end-line="62" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/signin/urls.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="135">
@@ -112,7 +74,7 @@
         <entry file="file://$PROJECT_DIR$/signin/views.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="75">
-              <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+              <caret line="5" selection-start-line="5" selection-end-line="5" />
             </state>
           </provider>
         </entry>
@@ -141,8 +103,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/portfolio/urls.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="427">
-              <caret line="31" lean-forward="true" selection-start-line="31" selection-end-line="31" />
+            <state relative-caret-position="375">
+              <caret line="31" selection-start-line="31" selection-end-line="31" />
               <folding>
                 <element signature="e#641#673#0" expanded="true" />
               </folding>
@@ -211,8 +173,8 @@
         <option value="$PROJECT_DIR$/signin/views.py" />
         <option value="$PROJECT_DIR$/portfolio/settings.py" />
         <option value="$PROJECT_DIR$/signin/apps.py" />
-        <option value="$PROJECT_DIR$/Login/templates/Login/Login.html" />
         <option value="$PROJECT_DIR$/portfolio/urls.py" />
+        <option value="$PROJECT_DIR$/Login/templates/Login/Login.html" />
         <option value="$PROJECT_DIR$/signin/templates/signin/signin.html" />
       </list>
     </option>
@@ -246,34 +208,19 @@
             <path>
               <item name="portfolio" type="b2602c69:ProjectViewProjectNode" />
               <item name="portfolio" type="462c0819:PsiDirectoryNode" />
-              <item name="Login" type="462c0819:PsiDirectoryNode" />
+              <item name="signin" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="portfolio" type="b2602c69:ProjectViewProjectNode" />
               <item name="portfolio" type="462c0819:PsiDirectoryNode" />
-              <item name="Login" type="462c0819:PsiDirectoryNode" />
+              <item name="signin" type="462c0819:PsiDirectoryNode" />
               <item name="templates" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="portfolio" type="b2602c69:ProjectViewProjectNode" />
               <item name="portfolio" type="462c0819:PsiDirectoryNode" />
-              <item name="Login" type="462c0819:PsiDirectoryNode" />
+              <item name="signin" type="462c0819:PsiDirectoryNode" />
               <item name="templates" type="462c0819:PsiDirectoryNode" />
-              <item name="Login" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="portfolio" type="b2602c69:ProjectViewProjectNode" />
-              <item name="portfolio" type="462c0819:PsiDirectoryNode" />
-              <item name="media" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="portfolio" type="b2602c69:ProjectViewProjectNode" />
-              <item name="portfolio" type="462c0819:PsiDirectoryNode" />
-              <item name="portfolio" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="portfolio" type="b2602c69:ProjectViewProjectNode" />
-              <item name="portfolio" type="462c0819:PsiDirectoryNode" />
               <item name="signin" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
@@ -367,6 +314,7 @@
       <workItem from="1563942435891" duration="344000" />
       <workItem from="1563943146745" duration="4110000" />
       <workItem from="1563947700152" duration="2539000" />
+      <workItem from="1563983940238" duration="1408000" />
     </task>
     <task id="LOCAL-00001" summary="update">
       <created>1563818473436</created>
@@ -379,7 +327,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="29000000" />
+    <option name="totallyTimeSpent" value="30408000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -391,9 +339,9 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="32" y="23" width="1520" height="877" extended-state="0" />
+    <frame x="0" y="23" width="1440" height="877" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26048714" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2639485" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -407,7 +355,7 @@
       <window_info anchor="bottom" id="Version Control" order="8" weight="0.32884902" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
-      <window_info anchor="bottom" id="Terminal" order="11" weight="0.34267515" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="11" visible="true" weight="0.34267515" />
       <window_info anchor="bottom" id="Python Console" order="12" />
       <window_info anchor="bottom" id="Messages" order="13" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -610,13 +558,10 @@
     <entry file="file://$PROJECT_DIR$/signin/tests.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/Login/urls.py">
+    <entry file="file://$PROJECT_DIR$/signin/views.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-line="9" />
-          <folding>
-            <element signature="e#0#32#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="75">
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
         </state>
       </provider>
     </entry>
@@ -627,55 +572,23 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/signin/views.py">
+    <entry file="file://$PROJECT_DIR$/Login/urls.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/signin/apps.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" column="12" selection-start-line="3" selection-start-column="12" selection-end-line="3" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/portfolio/settings.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="42" column="31" selection-start-line="42" selection-start-column="31" selection-end-line="42" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/home/templates/jobs/home.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="118">
-          <caret line="60" column="31" lean-forward="true" selection-start-line="60" selection-start-column="25" selection-end-line="60" selection-end-column="31" />
+        <state>
+          <caret selection-end-line="9" />
+          <folding>
+            <element signature="e#0#32#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/portfolio/urls.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="427">
-          <caret line="31" lean-forward="true" selection-start-line="31" selection-end-line="31" />
+        <state relative-caret-position="375">
+          <caret line="31" selection-start-line="31" selection-end-line="31" />
           <folding>
             <element signature="e#641#673#0" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Login/templates/Login/Login.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="421">
-          <caret line="67" column="40" selection-start-line="67" selection-start-column="40" selection-end-line="67" selection-end-column="67" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/signin/templates/signin/signin.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="369">
-          <caret line="33" column="49" lean-forward="true" selection-start-line="33" selection-start-column="49" selection-end-line="33" selection-end-column="49" />
         </state>
       </provider>
     </entry>
@@ -686,6 +599,41 @@
           <folding>
             <element signature="e#0#32#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/portfolio/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="42" column="31" selection-start-line="42" selection-start-column="31" selection-end-line="42" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/signin/apps.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="12" selection-start-line="3" selection-start-column="12" selection-end-line="3" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/home/templates/jobs/home.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="337">
+          <caret line="76" column="8" lean-forward="true" selection-start-line="73" selection-start-column="6" selection-end-line="76" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Login/templates/Login/Login.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="427">
+          <caret line="100" selection-start-line="100" selection-end-line="100" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/signin/templates/signin/signin.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="465">
+          <caret line="62" lean-forward="true" selection-start-line="62" selection-end-line="62" />
         </state>
       </provider>
     </entry>
